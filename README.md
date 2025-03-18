@@ -2,9 +2,9 @@
 
 ## 💻 Sobre mim
 
-🎯 Focado em me tornar um desenvolvedor backend Java.  
+🎯 Focado em me tornar um desenvolvedor Java Sr.  
 🚀 Estudando microserviços, docker, mensageria e mais!  
-🎸 Músico nas horas vagas — Me divirto tocando violão entre outros intrumentos  
+🎸 Músico nas horas vagas — Me divirto tocando violão entre outros instrumentos  
 🏋️ Buscando evoluir fisicamente e mentalmente todos os dias. 
 
 ## 🛠️ Tecnologias e Ferramentas
