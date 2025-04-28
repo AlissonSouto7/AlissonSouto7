@@ -23,8 +23,7 @@
 
 ### 🚀 Projetos Destacados
 
-- [Estoke](https://github.com/AlissonSouto7/estoke): Projeto que monitora um estoque.
-- [Prodfocus](https://github.com/AlissonSouto7/prodfocus): API de organização e foco.
+- [Florescer](https://github.com/AlissonSouto7/florescer): Projeto 
 
 ## 🔥 Objetivos atuais
 
