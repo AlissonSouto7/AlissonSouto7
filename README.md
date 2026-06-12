@@ -1,36 +1,53 @@
-## 👋 Olá, eu sou o Alisson!
+# 👋 Hi, I'm Alisson!
 
-## 💻 Sobre mim
+**Junior Backend Developer — Java · Spring Boot · REST APIs**
 
-🎯 Focado em me tornar um desenvolvedor Java Sr.  
-🚀 Estudando microserviços, docker, mensageria e mais!  
-🎸 Músico nas horas vagas — Me divirto tocando violão entre outros instrumentos  
-🏋️ Buscando evoluir fisicamente e mentalmente todos os dias. 
+🎯 Focused on becoming a senior Java developer
+🚀 Building real systems that solve real problems
+🎸 Musician in my free time — guitar and other instruments
+🏋️ Improving physically and mentally every day
 
-## 🛠️ Tecnologias e Ferramentas
+## 🌟 Featured project
 
-**Linguagens:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### [📚 AcervoLiber](https://github.com/AlissonSouto7/AcervoLiber) — **live in production**
 
-**Frameworks:**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white) 
+Library management system built for a public school in my hometown, replacing paper-notebook lending control. **Java 17 · Spring Boot · PostgreSQL · Flyway · JWT with rotating refresh tokens · Docker · CI/CD with GitHub Actions · deployed on GCP with automatic HTTPS — at zero cost.**
 
-**Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🌐 **Demo:** [acervoliber.duckdns.org](https://acervoliber.duckdns.org) · 🇧🇷 [README](https://github.com/AlissonSouto7/AcervoLiber) · 🇬🇧 [README (EN)](https://github.com/AlissonSouto7/AcervoLiber/blob/main/README.en.md)
 
-**Ferramentas:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) ![Lombok](https://img.shields.io/badge/Lombok-FA7343?style=for-the-badge&logo=lombok&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### [🌸 Florescer](https://github.com/AlissonSouto7/florescer)
 
-### 🚀 Projetos Destacados
+Product platform built as **two Spring Boot microservices**: a JWT-issuing auth service (MySQL) and an OAuth2 resource-server product API (PostgreSQL), each with its own Docker Compose.
 
-- [Florescer](https://github.com/AlissonSouto7/florescer): Projeto 
+## 🛠️ Tech I work with
 
-## 🔥 Objetivos atuais
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-🧠 Aprofundar meus conhecimentos em Java.   
-🌎 Melhorar meu inglês e expandir meus horizontes.  
+**Frameworks:**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## 🚀 Quer falar comigo?
+**Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-souto-java/)  
-📧 **Email:** [alissonprogp1@gmail.com](mailto:alissonprogp1@gmail.com)
+**Tools & Infra:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+
+## 🔥 Current goals
+
+🧠 Deepening my Java knowledge (enterprise mentorship in progress)
+🌎 Improving my English and expanding my horizons
+
+## 🚀 Want to talk?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-java/)
+📧 **Email:** alissonprogp1@gmail.com
